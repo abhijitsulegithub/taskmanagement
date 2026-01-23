@@ -93,7 +93,7 @@
     "axios": "1.7.2",
     "bootstrap": "5.3.3",
     "dayjs": "1.11.11",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "path-browserify": "1.0.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
